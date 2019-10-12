@@ -1,11 +1,11 @@
 # Fibonacci Series
 
-int fact(int n){
+int fibo(int n){
         if(n == 1)
         return 0;
         if(n == 2)
         return 1;
-        return func(n - 1) + func(n - 2) + func(n - 3);
+        return fibo(n - 1) + fibo(n - 2) + fibo(n - 3);
 }
 
 
