@@ -1,4 +1,5 @@
 # Remove punctuation from the string
+# Complexity: E
 
 a= '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 str = "Hello!!!, he said ---and went."

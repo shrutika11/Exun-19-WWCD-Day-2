@@ -1,3 +1,5 @@
+# Complexity: E
+
 def func(x):
    # This function takes a number and prints the factors
    print("The factors of",x,"are:")

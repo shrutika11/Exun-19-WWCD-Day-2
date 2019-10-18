@@ -1,4 +1,5 @@
 # Given quadratic variables a,b and c, find the solution
+# Complexity: E
 
 a = 1
 b = 5

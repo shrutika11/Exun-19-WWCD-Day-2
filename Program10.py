@@ -1,4 +1,5 @@
 # Compute HCF
+# Complexity: E
 
 def computeHCF(x, y):
     if x < y:
