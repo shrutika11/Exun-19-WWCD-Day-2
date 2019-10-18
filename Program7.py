@@ -1,3 +1,5 @@
+# Complexity: M
+
 def func(j): 
     count = 0
     for i in j: 
