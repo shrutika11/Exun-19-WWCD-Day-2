@@ -1,4 +1,5 @@
 // Highest frequency character in a string
+// Complexity: E
 
 char function(char input[]) {
     int i,j,m,a[256];
