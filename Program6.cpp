@@ -1,4 +1,5 @@
 // Reverse a linked list
+// Complexity: H
 
 void reverse()
 {

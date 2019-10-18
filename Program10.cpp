@@ -1,5 +1,5 @@
 // Delete first element of circular queue
-
+// Complexity: H
 struct node{
     int data;
     node* next;
