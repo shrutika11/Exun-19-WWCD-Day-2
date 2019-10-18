@@ -1,3 +1,5 @@
+# Complexity: M
+
 """Given an array with n elements in which all elements appear twice except one which appears once. The following code finds the unique element. """
 
 
