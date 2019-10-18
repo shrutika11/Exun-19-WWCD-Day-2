@@ -10,9 +10,9 @@
 5. In case no one else takes up that bug and you wish it to be reassigned to you, then after a minimum duration of X minutes, you can reassign it to yourself following the same syntax.
 6. A team can at a time work on 2 bugs AT THE MOST.
 7. Each file has a rated complexity. All bugs in that file are of that complexity only. Detecting and solving a bug of different complexities fetches different scores.
-### "H": 90 (35 for detection and 55 for correction)
-### "M": 60 (20 for detection and 40 for correction)
-### "E": 40 (10 for detection and 30 for correction)
+#### "H": 90 (35 for detection and 55 for correction)
+#### "M": 60 (20 for detection and 40 for correction)
+#### "E": 40 (10 for detection and 30 for correction)
 8. In case of a tie of scores, time of creating pull request shall be taken into consideration and code quality. 
 9. In implementation questions, there are no points for error detection.
 ### T = 20 minutes, X = 15 minutes
