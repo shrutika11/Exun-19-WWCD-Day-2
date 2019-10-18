@@ -1,4 +1,5 @@
 // Binary to Decimal conversion
+// Complexity: M
 
 int function(int n) { 
     int temp = n,value = 0, c = 1; 
