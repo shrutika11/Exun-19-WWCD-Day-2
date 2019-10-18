@@ -1,5 +1,5 @@
 /* The following code should print the leader elements in an array in the same order as they occur in the input array. An array element A[i] is called Leader, if all the elements following it (i.e. present at its right) are less than or equal to A[i]. */
-// Complexity: M
+// Complexity= M
 
 void Leaders(int* arr,int len) {
  	int j=0; int *save = new int[len]; 

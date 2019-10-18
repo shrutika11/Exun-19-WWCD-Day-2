@@ -1,5 +1,5 @@
 // Sort the given array
-// Complexity: M
+// Complexity= M
 
 void merge(int* arr, int si, int mid, int ei){
     int i = si,j = mid + 1, count = 0;
