@@ -15,4 +15,5 @@
 #### "E": 40 (10 for detection and 30 for correction)
 8. In case of a tie of scores, time of creating pull request shall be taken into consideration and code quality. 
 9. In implementation questions, there are no points for error detection.
+10. Each team can do a maximum of 2 'E' complexity questions.
 ### T = 20 minutes, X = 15 minutes
