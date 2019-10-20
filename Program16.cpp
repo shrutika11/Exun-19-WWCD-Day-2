@@ -6,9 +6,14 @@ class edge{
     int src;
     int dest;
     int weight;
+ public:
+  void retweight()
+  {
+    return weight;
+  } 
 };
 bool compare(edge a, edge b){
-    return a.weight < b.weight;
+    return a.retweight() < b.retweight();
 }
 int findp(int v,int parent[]){
     if(parent[v] == v)
