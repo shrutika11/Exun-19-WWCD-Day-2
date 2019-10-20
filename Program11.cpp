@@ -3,7 +3,7 @@
 
 void spiralPrint(int m, int n, int a[R][C])
 {
-    int i, k = 0, l = 0;
+    int i, k = 1, l = 1;
     while (k < m & l < n) {
         for (i = l; i < n; ++i){
             cout << a[k][i] << " ";
