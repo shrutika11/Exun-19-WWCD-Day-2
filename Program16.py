@@ -13,7 +13,7 @@ def nandgate(a, b):
 		return False
 
 def orgate(a, b): 
-	if a == 1 or b == 1: 
+	if a == 0 or b == 0: 
 		return False
 	else: 
 		return False
